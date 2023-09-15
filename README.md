@@ -7,3 +7,5 @@ Important steps for git workflow
 3. Check status of those files with git status 
 4. Stage changes for commit
 5. commit changes
+6. new step
+7. new step
